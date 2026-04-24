@@ -1,0 +1,19 @@
+# Claude Code
+.claude/
+.claude.json
+.claude-code/
+.mcp.json
+claude.md
+CLAUDE.md
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
